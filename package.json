@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/photography-school/",
+    "build": "vite build --base=/html_css_95_OlichkaKhamuliak/",
     "preview": "vite preview"
   },
   "devDependencies": {
